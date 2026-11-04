@@ -3,7 +3,7 @@
 * Cristiane Ferreira (FênixxTec)
 * Danielly Gomes de Souza (
 daniellygdesouza-cyber)
-* Helvia Monteiro Olmeda
+* Helvia Monteiro Olmeda (HelviaMonteiro)
 * Marinara de Jesus Rosa (marinararosajr)
 * Polyanna Michele do Nascimento
 * Rodrigo Martins de Almeida
