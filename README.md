@@ -6,7 +6,7 @@ daniellygdesouza-cyber)
 * Helvia Monteiro Olmeda (HelviaMonteiro)
 * Marinara de Jesus Rosa (marinararosajr)
 * Polyanna Michele do Nascimento
-* Rodrigo Martins de Almeida
+* Rodrigo Martins de Almeida (xNumber01)
 
 # 🎬 Cinem@Fã - Quiz de Filmes e Séries
 
