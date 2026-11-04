@@ -62,3 +62,4 @@ O projeto foi construído utilizando as bases do desenvolvimento Web Standards (
  ┣ 📜 index.html        # Estrutura principal da página (Single Page Application)
  ┣ 📜 db.json           # Representação JSON da estrutura de dados da aplicação
  ┗ 📜 README.md         # Documentação do projeto
+ }
