@@ -48,7 +48,7 @@ O projeto foi construído utilizando as bases do desenvolvimento Web Standards (
 *   *JavaScript (Vanilla JS):* Manipulação de DOM, gestão de estado da aplicação, arrays/objetos, e persistência com localStorage.
 *   *Design:* Interface baseada em "Cards" (Modo Escuro / Dark Theme) e tipografia moderna (Google Fonts: Poppins).
 
----
+-----
 
 ## 🛠️ Estrutura do Projeto
 
