@@ -3,7 +3,7 @@
 * Cristiane Ferreira (xNumber01)
 * Danielly Gomes de Souza (
 daniellygdesouza-cyber)
-* Helvia Monteiro Olmeda
+* Helvia Monteiro Olmeda (helviamonteiro)
 * Marinara de Jesus Rosa (marinararosajr)
 * Polyanna Michele do Nascimento
 * Rodrigo Martins de Almeida
