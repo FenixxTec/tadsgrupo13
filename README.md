@@ -1,9 +1,9 @@
 ## Integrantes do grupo
 
-* Cristiane Ferreira (xNumber01)
+* Cristiane Ferreira (FênixxTec)
 * Danielly Gomes de Souza (
 daniellygdesouza-cyber)
-* Helvia Monteiro Olmeda (helviamonteiro)
+* Helvia Monteiro Olmeda
 * Marinara de Jesus Rosa (marinararosajr)
 * Polyanna Michele do Nascimento
 * Rodrigo Martins de Almeida
