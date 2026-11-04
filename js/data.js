@@ -171,7 +171,7 @@ const QUIZ_DATABASE = {
     { q: "Quem é o forjador das espadas de Tanjiro que fica furioso quando ele as quebra?", options: ["Haganezuka", "Kanamori", "Tecchin", "Kotetsu"], answer: 0 }
   ],
   greys_anatomy: [
-    { q: "Qual é o nome da protagonista da série Grey's Anatomy?", options: ["Meredith Grey", "Cristina Yang", "Izzie Stevens", "Lexie Grey"], answer: 0 },
+    { q: "Qual é o nome da protagonista da série Grey's Anatomy?", options: [ "Cristina Yang", "Izzie Stevens", "Lexie Grey","Meredith Grey"], answer: 3 },
     { q: "Em qual hospital se passa a maior parte do início da série?", options: ["Seattle Grace Hospital", "Johns Hopkins", "Mercy West", "Chicago Med"], answer: 0 },
     { q: "Qual apelido carinhoso foi dado a Derek Shepherd?", options: ["McDreamy", "McSteamy", "McVet", "McHot"], answer: 0 },
     { q: "Qual médica é especialista em Cirurgia Cardiotorácica e melhor amiga de Meredith?", options: ["Cristina Yang", "April Kepner", "Arizona Robbins", "Callie Torres"], answer: 0 },
