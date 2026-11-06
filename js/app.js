@@ -260,7 +260,7 @@ function handleOptionSelect(selectedIndex) {
     feedbackBox.className = 'feedback-box wrong';
   }
 
-  // Avança automaticamente após 1.5s
+  // Avança automaticamente após 3s
   setTimeout(() => {
     currentQuestionIndex++;
     if (currentQuestionIndex < 10) {
@@ -268,7 +268,7 @@ function handleOptionSelect(selectedIndex) {
     } else {
       finishQuiz();
     }
-  }, 1500);
+  }, 3000);
 }
 
 function finishQuiz() {
