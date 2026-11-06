@@ -16,6 +16,17 @@ Este projeto foi desenvolvido como requisito académico pela *Equipe 13* do curs
 
 ---
 
+### Execução Local 
+
+Para rodar os ficheiros localmente na sua máquina, o projeto não exige instalações complexas:
+
+1. Faça o download deste repositório clicando no botão verde *Code* > *Download ZIP* no topo da página.
+2. Extraia o ficheiro ZIP no seu computador.
+3. Abra a pasta extraída e dê um duplo clique no ficheiro index.html.
+4. A aplicação abrirá diretamente no seu navegador padrão.
+
+---
+
 ## 🚀 Funcionalidades
 
 *   *Autenticação de Utilizadores:* Sistema de registo e login utilizando E-mail e Palavra-passe.
