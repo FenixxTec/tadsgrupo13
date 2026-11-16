@@ -75,13 +75,13 @@ function setupEventListeners() {
     showScreen(screenCategory);
     renderCategories();
   });
-}
 function handleLogin(e) {
   e.preventDefault();
   const emailDigitado = document.getElementById('loginEmail').value.trim();
   const pass = document.getElementById('loginPassword').value.trim();
 
-  const user = users.find(u => u.email.toLowerCase() === emailDigitado.toLowerCase());
+  // A inclusão de "u.email &&" previne que o sistema pare se um utilizador não possuir e-mail
+  const user = users.find(u => u.email && u.email.toLowerCase() === emailDigitado.toLowerCase());
 
   if (!user) {
     alert('Usuário não encontrado. Verifique o e-mail digitado ou faça o cadastro.');
@@ -93,6 +93,8 @@ function handleLogin(e) {
     return;
   }
 
+  loginUser(user);
+}
   loginUser(user);
 }
 
